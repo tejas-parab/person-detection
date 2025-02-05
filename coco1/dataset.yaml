@@ -1,0 +1,6 @@
+names:
+  0: person
+path: C:\Users\Tejas\Documents\project\person_detection\coco12
+test: .\images\test\
+train: .\images\train\
+validation: .\images\validation\
